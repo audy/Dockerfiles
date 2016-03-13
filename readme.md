@@ -1,6 +1,6 @@
 # Dockerfiles
 
-@[audy](https://github.com/audy)'s various dockerfiles.
+@[audy](https://github.com/audy)'s dockerfiles.
 
 ## LICENSE
 
